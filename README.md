@@ -1,0 +1,2 @@
+# PM2.5_Time_Series_Analysis
+ARIMAX and RNN+LSTM methods have been implemented for the prediction on PM2.5 (superfine particles in the air which are harmful to human health) by using the dataset “PRSA2017_Data_20130301-20170228.zip”. The dataset contains air pollutants data from 12 monitoring sites in China. The data was collected at regular 1-hour intervals from 01-Mar-2013 to 28-Feb-2017. Both the methods have been developed and their prediction performances have been evaluated and compared on each of the 12 sites.
